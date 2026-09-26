@@ -1,6 +1,6 @@
 # [Min-WLYT-Plus](https://github.com/wl-unblock/MIN-wlyt-Plus)
 
-[min-wlyt-plusの最新リポジトリ派こちらです。](https://github.com/wl-unblock/MIN-wlyt-Plus)
+[min-wlyt-plusの最新リポジトリはこちらです。](https://github.com/wl-unblock/MIN-wlyt-Plus)
 
 CG / YouTube web app.  
 「Min-wlyt-Plus」は、YouTube や動画視聴をより快適にするための Web アプリです。  
