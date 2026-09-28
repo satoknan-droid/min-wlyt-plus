@@ -1,4 +1,6 @@
-# Min-WLYT-Plus
+# [Min-WLYT-Plus](https://github.com/wl-unblock/MIN-wlyt-Plus)
+
+[min-wlyt-plusの最新リポジトリはこちらです。](https://github.com/wl-unblock/MIN-wlyt-Plus)
 
 CG / YouTube web app.  
 「Min-wlyt-Plus」は、YouTube や動画視聴をより快適にするための Web アプリです。  
@@ -21,15 +23,15 @@ CG / YouTube web app.
 
 ### Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/woolisbest-honke/min-wlyt-plus)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/wl-unblock/min-wlyt-plus)
 
 ### Render
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/woolisbest-honke/min-wlyt-plus)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/wl-unblock/min-wlyt-plus)
 
 ### Railway
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?templateUrl=https://github.com/woolisbest-honke/min-wlyt-plus)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?templateUrl=https://github.com/wl-unblock/min-wlyt-plus)
 
 ---
 
@@ -55,6 +57,10 @@ node index.js
 ---
 
 ## 更新履歴(min-wlyt-plus)
+### ver1.0.4
+ - Elixir-networkでのnode errorを修正。
+ - 漫画raw・anime・映画は著作権違反ページ（dmca）に転移するように修正。（これによりrenderやrailwayにデプロイした際にbanされるリスクが低くなります、あとねむいが作ったやつ普通に犯罪だからこっちgithubアカウントとかbanされたらだるい。minoには許可とった。）
+
 ### ver1.0.3
 - Elixir-networkでの漫画、映画が確実に使えるように調整
 - WOOLsite追加
